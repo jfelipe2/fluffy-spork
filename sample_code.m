@@ -6,7 +6,7 @@ clear all
 close all
 clc
 
-%%
+%% give this section a title
 
 Y = magic(4);
 
